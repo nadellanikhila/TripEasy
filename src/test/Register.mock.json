@@ -1,0 +1,46 @@
+
+    [{
+        "_id": "65431c85a19911b2adc5497c",
+        "property_name": "Property 2",
+        "property_city": "Vista, North Carolina",
+        "property_image": "3e157c9c-58cf-444b-988a-5537dae79e46-1698897029589.jpg",
+        "property_description": "15 miles away",
+        "property_rating_average": 0,
+        "property_nightly_fare": 700,
+        "property_owner": "pranavanand@gmail.com",
+        "is_available": false,
+        "is_deleted": true,
+        "createdAt": "2023-11-02T03:50:29.598Z",
+        "updatedAt": "2023-11-02T03:51:58.699Z",
+        "__v": 0
+    },
+    {
+        "_id": "65431cc0a19911b2adc54982",
+        "property_name": "Property 3",
+        "property_city": "Villa, California",
+        "property_image": "da3542a5-1851-42db-82d1-05c23ba88b8a-1698897088177.jpg",
+        "property_description": "59 miles away",
+        "property_rating_average": 0,
+        "property_nightly_fare": 700,
+        "property_owner": "pranavanand@gmail.com",
+        "is_available": false,
+        "is_deleted": true,
+        "createdAt": "2023-11-02T03:51:28.185Z",
+        "updatedAt": "2023-11-02T03:52:00.946Z",
+        "__v": 0
+    },
+    {
+        "_id": "65431ea0a19911b2adc549e3",
+        "property_name": "Vista",
+        "property_city": "North Carolina",
+        "property_image": "27d4cf27-ccea-4d8f-9e71-ecac20ce2306-1698897568777.jpg",
+        "property_description": "15 miles away",
+        "property_rating_average": 0,
+        "property_nightly_fare": 300,
+        "property_owner": "nadellanikhi@gmail.com",
+        "is_available": true,
+        "is_deleted": false,
+        "createdAt": "2023-11-02T03:59:28.783Z",
+        "updatedAt": "2023-11-02T03:59:28.783Z",
+        "__v": 0
+    }]
